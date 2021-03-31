@@ -35,6 +35,16 @@ Take a look in what are you going to find here:
 Ploting the best location in the city:
   ![rio_benefit_cost](https://user-images.githubusercontent.com/80376071/113203626-a5ace380-9242-11eb-8625-a40d9ae5d86c.PNG)
 
+Best profile founded on that dataset
+
+![image](https://user-images.githubusercontent.com/80376071/113218456-ee21cc80-9255-11eb-9a68-01b2d1d0351a.png)
+
+
+
+
+
+
+
 Person Correlation between the features:
 
 
