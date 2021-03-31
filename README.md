@@ -1,6 +1,6 @@
 # LowCostAirbnb
 
-                                                 "LOWCOST SOUTH AMERICA DREAMS"
+                                              "LOWCOST SOUTH AMERICA DREAMS"
 
 This project is product of a Data Analysis and Machine Learning models with a very unique purpose: Help an imaginary travel agency ("Lowcost South America Dreams") to plan low cost travels to South America, in this cases, to Brazil, for thier clients. As part of that work we need to analyze some AirBnb locations in Rio de Janeiro and find the best possible places in city to indicate to the clients.
 
@@ -43,5 +43,7 @@ Person Correlation between the features:
 
  
  
- 
+If you are getting trouble to acess this notebook on github, try here: https://nbviewer.jupyter.org/
+
+All you need to do is copy/paste the notebook URL on it.
 
